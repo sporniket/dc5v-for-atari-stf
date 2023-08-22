@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "assemblies_power_modules")(type "KiCad")(uri "${KIPRJMOD}/kicad-footprints-handmade/assemblies_power_modules.pretty")(options "")(descr ""))
+)
