@@ -1288,8 +1288,8 @@
     (in_bom yes) (on_board yes)
     (uuid 9d541d6f-313d-4469-a000-68242c1dd6d6)
     (property "Reference" "J1" (id 0) (at 93.98 40.64 0))
-    (property "Value" "Conn_01x02" (id 1) (at 93.98 50.8 0))
-    (property "Footprint" "commons-interconnect_THT:Fixed_Terminal_Blocks_Wurth_Elektronik_Serie_4122_7.00mm_Screwless_45degrees_1x02" (id 2) (at 93.98 45.72 0)
+    (property "Value" "Conn_01x03" (id 1) (at 93.98 50.8 0))
+    (property "Footprint" "commons-interconnect_THT:Fixed_Terminal_Blocks_Wurth_Elektronik_Serie_4122_7.00mm_Screwless_45degrees_1x03" (id 2) (at 93.98 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 93.98 45.72 0)
@@ -1418,7 +1418,7 @@
     (uuid e154b2a8-7971-4d03-8a83-71e2cbb0cd17)
     (property "Reference" "F1" (id 0) (at 81.28 56.388 90))
     (property "Value" "Fuse" (id 1) (at 81.28 60.325 90))
-    (property "Footprint" "" (id 2) (at 81.28 60.198 90)
+    (property "Footprint" "commons-passives_THT:FuseHolder_Cylinder_5x20mm_Wurth_Elektronik_696310001002" (id 2) (at 81.28 60.198 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 81.28 58.42 0)
@@ -1552,7 +1552,7 @@
       (reference "D1") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm")
     )
     (path "/e154b2a8-7971-4d03-8a83-71e2cbb0cd17"
-      (reference "F1") (unit 1) (value "Fuse") (footprint "")
+      (reference "F1") (unit 1) (value "Fuse") (footprint "commons-passives_THT:FuseHolder_Cylinder_5x20mm_Wurth_Elektronik_696310001002")
     )
     (path "/42ff79f5-7aba-4233-be21-4072d4762c22"
       (reference "H1") (unit 1) (value "M3") (footprint "MountingHole:MountingHole_3.5mm")
@@ -1567,7 +1567,7 @@
       (reference "H4") (unit 1) (value "M3") (footprint "MountingHole:MountingHole_3.5mm")
     )
     (path "/9d541d6f-313d-4469-a000-68242c1dd6d6"
-      (reference "J1") (unit 1) (value "Conn_01x02") (footprint "commons-interconnect_THT:Fixed_Terminal_Blocks_Wurth_Elektronik_Serie_4122_7.00mm_Screwless_45degrees_1x02")
+      (reference "J1") (unit 1) (value "Conn_01x03") (footprint "commons-interconnect_THT:Fixed_Terminal_Blocks_Wurth_Elektronik_Serie_4122_7.00mm_Screwless_45degrees_1x03")
     )
     (path "/668b82fe-b542-4bd0-b2a5-5dae0ac43510"
       (reference "J2") (unit 1) (value "Conn_01x06") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
