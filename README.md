@@ -12,7 +12,7 @@ Content
 
 ## 1. What is **DC5V for the Atari STF**, and when to use it ?
 
-**DC5V for the Atari STF** is an alternative pcb to replace the integrated power supply of the Atari STf, based on the premise that the original power plug will receive a DC 5V, 3A to 4A supply instead of being plugged to the main grid (110~240V, 50~60Hz, 1A).
+**DC5V for the Atari STF** is an alternative pcb to replace the integrated power supply of the Atari STf, based on the premise that the original power plug will receive a DC 5V, 3A to 4A supply instead of being plugged to the main grid (110V to 240V, 50Hz to 60Hz, 1A).
 
 **BOM v1**
 
