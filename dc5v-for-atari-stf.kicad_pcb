@@ -8,7 +8,7 @@
   (title_block
     (title "DC5V for the Atari STf/e/...")
     (date "2023-08-24")
-    (rev "v1.0.0-RC1")
+    (rev "v1.0.0-RC2")
     (company "Sporniket")
     (comment 4 "https://github.com/sporniket/dc5v-for-atari-stf")
   )
@@ -1209,7 +1209,7 @@
   (gr_line (start 91 57) (end 91 66.5) (layer "Edge.Cuts") (width 0.1) (tstamp f3a3179e-d1e8-45f8-8554-abd7980e321d))
   (gr_arc (start 91 57) (mid 91.585786 55.585786) (end 93 55) (layer "Edge.Cuts") (width 0.1) (tstamp fa53c8b9-e764-436c-95c5-f1988190267c))
   (gr_line (start 93 145) (end 207 145) (layer "Edge.Cuts") (width 0.1) (tstamp fcd6476e-d28b-4f13-a36f-55893046a543))
-  (gr_text "Version 1.0.0-RC1" (at 150 125) (layer "F.SilkS") (tstamp 016a6d1d-b9f2-4ba2-b09d-396f817b890e)
+  (gr_text "Version 1.0.0-RC2" (at 150 125) (layer "F.SilkS") (tstamp 016a6d1d-b9f2-4ba2-b09d-396f817b890e)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "+5V\nTHROUGH FUSE" (at 125.5 68) (layer "F.SilkS") (tstamp 0416293d-aab4-4ba4-933d-bea2aeff1a2d)

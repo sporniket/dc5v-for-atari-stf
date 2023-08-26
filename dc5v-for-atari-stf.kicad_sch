@@ -7,7 +7,7 @@
   (title_block
     (title "DC5V for the Atari STf/e/...")
     (date "2023-08-24")
-    (rev "v1.0.0-RC1")
+    (rev "v1.0.0-RC2")
     (company "Sporniket")
     (comment 4 "https://github.com/sporniket/dc5v-for-atari-stf")
   )
